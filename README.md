@@ -9,7 +9,7 @@ Data Scientist having Data Engineering capabilities as well and enriching the le
 * 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [kr.nityanand.ind@gmail.com](mailto:kr.nityanand.ind@gmail.com)
 * 🧠  I'm learning Reinforcement Learning
-* ⚡  I create and share innovations to local NGO or small self run social volunteering groups
+* ⚡  I create and share innovations to local NGO or small self-run social volunteering groups
 
 ### Skills
 
